@@ -1,0 +1,27 @@
+{
+  "name": "node-ava",
+  "version": "0.1.0",
+  "description": "Example using ava testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/byronchu/node-ava.git"
+  },
+  "keywords": [
+    "ava",
+    "node",
+    "example"
+  ],
+  "author": "Byron Chu <chu.byron@yahoo.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/byronchu/node-ava/issues"
+  },
+  "homepage": "https://github.com/byronchu/node-ava#readme",
+  "devDependencies": {
+    "ava": "^0.17.0"
+  }
+}
